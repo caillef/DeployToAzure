@@ -1,6 +1,6 @@
 # Crypto Info
 
-This website is a demo where you can find the values of several cryptocurrencies and the incoming events about blockchain in the Helsinki area.
+This [website](https://cailleaud.azurewebsites.net) is a demo where you can find the values of several cryptocurrencies and the incoming events about blockchain in the Helsinki area.
 
 ![](images/homepage.png)
 
@@ -10,7 +10,7 @@ This website is a demo where you can find the values of several cryptocurrencies
 
 ## Add a cryptocurrency with the current price and a logo
 
-You can find the logo on (Coin Market Cap)[https://coinmarketcap.com] by right-clicking on the logo of a cryptocurrency.
+You can find the logo on [Coin Market Cap](https://coinmarketcap.com) by right-clicking on the logo of a cryptocurrency.
 
 ![](images/addcrypto.png)
 
